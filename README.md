@@ -152,7 +152,7 @@ python manage.py loaddata fixtures/sample_data.json
 python manage.py runserver
 ```
 
-Приложение будет доступно по адресу: http://127.0.0.1:8000/
+Приложение будет доступно по адресу: http://127.0.0.1:9000/
 
 ## 📱 Current Usage
 
